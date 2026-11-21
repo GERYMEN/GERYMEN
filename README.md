@@ -1,17 +1,12 @@
-<div align="center">
+## Hey, I'm Siraj
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=190&section=header&text=Siraj%20M%20A&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20React%20%2F%20Next.js%20%C2%B7%20Building%20with%20AI&descAlignY=58&descSize=17" width="100%" alt="Siraj M A — Senior Software Engineer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siraj%20M%20A-000000?logo=linkedin&logoColor=white&labelColor=555555)](https://www.linkedin.com/in/mohamed-siraj-b10b70125/)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=0EA5E9&center=true&vCenter=true&width=640&lines=5%2B+years+shipping+web+%26+mobile+products;Fintech+%C2%B7+Healthcare+%C2%B7+E-commerce+%C2%B7+ERP;Now+building+AI-powered+products+and+agents" alt="Typing intro" /></a>
+I build web and mobile products with React, Next.js and React Native. You can see my work on my portfolio [here](https://siraj-potfolio.vercel.app/).
 
-<p>
-  <a href="https://siraj-potfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-siraj-b10b70125/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohammedsiraj2013@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Bengaluru,_India-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru" />
-</p>
+Most recently, I've been working on AI engineering: LLM-powered features, agents and automation pipelines at [Algosium](#).
 
-</div>
+I'm based in Bengaluru and open to collaborating on AI products. You can reach me on [LinkedIn](https://www.linkedin.com/in/mohamed-siraj-b10b70125/) or by email [here](mailto:mohammedsiraj2013@gmail.com).
 
 ---
 
