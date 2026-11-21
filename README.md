@@ -103,6 +103,5 @@ I'm a **Senior Software Engineer at [Algosium](#)** with 5+ years of building fa
 **Open to** senior frontend / full-stack roles, AI product engineering, and interesting collaborations.<br/>
 <sub>Let's build something people actually use.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="" />
 
 </div>
